@@ -82,7 +82,7 @@
   },
   "dependencies": {
     "diff": "5.1.0",
-    "hogan.js": "3.0.2"
+    "wontache": "^0.1.0"
   },
   "optionalDependencies": {
     "highlight.js": "11.6.0"
